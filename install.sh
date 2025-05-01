@@ -62,11 +62,11 @@ echo "┌─┐┌─┐┌───┐┌─┐┌─┐┌───┐┌─�
     echo "  • INFORMASI MODULE"
     echo "-------------------------------------------------------------------------"
     sleep 0.5
-    echo "  • DEVELOPER          ➜ @traatweak"
+    echo "  • DEVELOPER          ➜ @RP_PAIN"
     sleep 0.5
-    echo "  • VERSION MODULE     ➜ 1.3"
+    echo "  • VERSION MODULE     ➜ 1.0"
     sleep 0.5
-    echo "  • FUNGSI MODULE      ➜ MEMAKSIMALKAN FPS KE 60-144"
+    echo "  • FUNGSI MODULE      ➜ FPS to 60-144"
     echo "-------------------------------------------------------------------------"
     sleep 0.5
     echo ""
@@ -166,7 +166,7 @@ settings put system thermal_limit_refresh_rate 144
 settings put system NV_FPSLIMIT 144
 settings put system fps.limit.is.now locked
 ) > /dev/null 2>&1 &
-cmd notification post -S bigtext -t 'MAX-FPS 💥' 'Tag' "Max fps active⚡" > /dev/null 2>&1
+cmd notification post -S bigtext -t 'MAX-FPS - Irivalyt' 'Tag' "Max fps active - irivalyt" > /dev/null 2>&1
 ##################################################################
 echo "-------------------------------------------------------------------------"
 echo " - DONE"
